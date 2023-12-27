@@ -1,4 +1,4 @@
-# LanguageRibbon-Front
+# LanguageRibbon-Data
 
 명지대학교 캡스톤디자인2팀 Language Ribbon 데이터
 
